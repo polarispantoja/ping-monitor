@@ -4,7 +4,7 @@ Ping Monitor APP for Linux
 
 A lightweight desktop ping monitor for Ubuntu. Add servers, see their status at a glance (green = up, red = down), and check round-trip latency — all checked automatically every 30 seconds via ICMP.
 
-![Ping Monitor screenshot](https://user-images.githubusercontent.com/placeholder/screenshot.png)
+![Ping Monitor screenshot](https://github.com/polarispantoja/ping-monitor/blob/main/Screenshot%20from%202026-06-19%2010-20-42.png)
 
 ## Features
 
@@ -17,10 +17,10 @@ A lightweight desktop ping monitor for Ubuntu. Add servers, see their status at 
 
 ## Install
 
-Download the latest release from the [Releases](https://github.com/YOUR_USERNAME/ping-monitor/releases) page, or build from source:
+Download the latest release from the [Releases](https://github.com/polarispantoja/ping-monitor/releases) page, or build from source:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ping-monitor.git
+git clone https://github.com/polarispantoja/ping-monitor.git
 cd ping-monitor/desktop-app
 npm install
 npm start
