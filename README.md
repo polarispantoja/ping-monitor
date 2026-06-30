@@ -17,22 +17,14 @@ A lightweight desktop ping monitor for Ubuntu. Add servers, see their status at 
 
 ## Install
 
-Download the latest release from the [Releases](https://github.com/polarispantoja/ping-monitor/releases) page, or build from source:
+Download the latest release from the [Releases](https://github.com/polarispantoja/ping-monitor/releases) page, then run:
 
 ```bash
-git clone https://github.com/polarispantoja/ping-monitor.git
-cd ping-monitor/desktop-app
-npm install
-npm start
+unzip PingMonitor-linux-x64.zip
+tar xzf PingMonitor-linux-x64.tar.gz
+cd PingMonitor-linux-x64
+./PingMonitor
 ```
-
-To package for distribution:
-
-```bash
-npm run package
-```
-
-This creates `release/PingMonitor-linux-x64/` which you can run directly or archive.
 
 ## Built With
 
